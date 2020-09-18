@@ -1,0 +1,58 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
+
+.aligning{
+border-radius:6px;
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+overflow:hidden;
+display: inline-block;
+}
+.xo  div .box {
+    height:70px;
+    width:70px;
+    background-color: #f9df30;
+    margin:2px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 45px;
+}
+
+.info{
+    background-color: blueviolet;
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
+    width:400px;
+    padding:8px;
+    text-transform: uppercase;
+    text-align: center;
+border-radius:6px;
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+overflow:hidden;
+display: inline-block;
+border:2px solid #e3e4e6;
+}
+h1{
+    text-align: center;
+    color:#f9df30;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.demo{
+    text-align: center;
+    color:#f9df30;
+    padding: 2px;
+}
+.boxes{
+ display: flex;
+ justify-content: center;
+}
